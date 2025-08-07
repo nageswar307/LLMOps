@@ -10,11 +10,11 @@ conda create -p <venv_name> <python version>
 ```
 
 ## activate venv
-## for conda env
+#### for conda env
 ```
 conda activate <path to env folder> 
 ```
-## for python venv
+#### for python venv
 ```
 source bin/activate  
 ```
